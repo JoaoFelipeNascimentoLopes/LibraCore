@@ -1,0 +1,1 @@
+# 📚 LibraCore - Sistema de Gerenciamento de Bibliotecas
