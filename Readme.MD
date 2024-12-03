@@ -5,3 +5,8 @@ O LibraCore sistema web simples e eficiente para o gerenciamento completo de bib
 ⚠️ Este projeto ainda está em desenvolvimento! Conforme novas atualizações acontecerem, este arquivo será modificado!
 
 <!-- # 🚀 Features -->
+
+## 💻 Autor
+
+👤 Desenvolvido por: João Felipe  
+📅 Ano de Desenvolvimento: 2024
