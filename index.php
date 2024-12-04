@@ -1,3 +1,6 @@
+<?php
+    include("php/navbar.php");
+?>
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
