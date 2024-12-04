@@ -6,7 +6,7 @@ O LibraCore é um sistema web simples e eficiente para o gerenciamento completo 
 
 ## 🚀 Features
 
-Aqui estão alguns dos recursos existentes no LibraCore:
+Aqui estão alguns dos recursos existentes no LibraCore
 
 ## 💻 Autor
 
