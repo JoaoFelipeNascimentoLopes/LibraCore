@@ -4,7 +4,9 @@ O LibraCore sistema web simples e eficiente para o gerenciamento completo de bib
 
 ⚠️ Este projeto ainda está em desenvolvimento! Conforme novas atualizações acontecerem, este arquivo será modificado!
 
-<!-- # 🚀 Features -->
+## 🚀 Features
+
+Aqui estão alguns dos recursos existentes no LibraCore:
 
 ## 💻 Autor
 
